@@ -1,8 +1,5 @@
 {
-  "itemGroup.autorun": "Example Mod Tab",
-  "block.autorun.example_block": "Example Block",
-  "item.autorun.example_item": "Example Item",
-
+// @debug, todo
   "autorun.configuration.title": "AutoRun Configs",
   "autorun.configuration.section.autorun.common.toml": "AutoRun Configs",
   "autorun.configuration.section.autorun.common.toml.title": "AutoRun Configs",

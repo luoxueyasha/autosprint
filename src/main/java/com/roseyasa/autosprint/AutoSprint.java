@@ -19,8 +19,6 @@ public class AutoSprint {
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public AutoSprint(IEventBus modEventBus, ModContainer modContainer) {
-//        NeoForge.EVENT_BUS.register(this);
-
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
         modContainer.registerExtensionPoint(IConfigScreenFactory.class, ConfigurationScreen::new);
     }
