@@ -7,4 +7,6 @@ AutoSprint
 
 Walks automatically like MMORPGs.
 
-Participant of [TeaCon 2026](https://www.teacon.cn/2026). 
+Participant of [TeaCon 2026](https://www.teacon.cn/2026).
+
+Vibecoded by deepseek-4-flash

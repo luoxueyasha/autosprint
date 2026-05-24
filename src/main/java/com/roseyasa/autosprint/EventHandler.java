@@ -33,7 +33,7 @@ public class EventHandler {
         MOD_KEY_ID,
         KeyConflictContext.IN_GAME,
         InputConstants.Type.MOUSE,
-        GLFW.GLFW_MOUSE_BUTTON_MIDDLE,
+        GLFW.GLFW_MOUSE_BUTTON_5,
         MOD_KEY_CATEGORY
     ));
 
