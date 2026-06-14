@@ -3,7 +3,7 @@
 
 AutoSprint
 ====
-![Icon](icon.png)
+![Icon](src/main/resources/icon.png)
 > [KACHITORITAI](https://www.youtube.com/watch?v=PEVBOsSZkN8).
 
 Walks automatically by pressing a single button(by default Mouse-4), as in MMORPGs. Client-side Only.
