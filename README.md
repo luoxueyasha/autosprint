@@ -1,7 +1,7 @@
 
 
 
-AutoSprint
+Orga's AutoSprint
 ====
 ![Icon](src/main/resources/icon.png)
 > [KACHITORITAI](https://www.youtube.com/watch?v=PEVBOsSZkN8).
