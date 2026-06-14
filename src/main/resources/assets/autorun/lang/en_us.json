@@ -1,10 +1,19 @@
 {
-// @debug, todo
-  "autorun.configuration.title": "AutoRun Configs",
-  "autorun.configuration.section.autorun.common.toml": "AutoRun Configs",
-  "autorun.configuration.section.autorun.common.toml.title": "AutoRun Configs",
-  "autorun.configuration.items": "Item List",
-  "autorun.configuration.logDirtBlock": "Log Dirt Block",
-  "autorun.configuration.magicNumberIntroduction": "Magic Number Text",
-  "autorun.configuration.magicNumber": "Magic Number"
+  "autorun.configuration.title": "AutoSprint Configs",
+  "autorun.configuration.section.autorun.common.toml": "AutoSprint Configs",
+  "autorun.configuration.section.autorun.common.toml.title": "AutoSprint Configs",
+  "autorun.configuration.autoSprint": "Enable Sprinting on Auto-moving",
+  "key.category.autosprint.category":"AutoSprint",
+  "key.autosprint.auto_run": "Switch Auto-moving",
+
+  "autosprint.custom_message.on.1": "Auto-moving enabled.",
+  "autosprint.custom_message.on.2": "Go! Johnny, GO!",
+  "autosprint.custom_message.on.3": "KACHITORITAI",
+  "autosprint.custom_message.on.4": "Auto-moving enabled.",
+  "autosprint.custom_message.on.5": "Auto-moving enabled.",
+  "autosprint.custom_message.off.1": "Auto-moving disabled.",
+  "autosprint.custom_message.off.2": "This has truly, truly been a roundabout path...",
+  "autosprint.custom_message.off.3": "Don't you ever stop...",
+  "autosprint.custom_message.off.4": "Auto-moving disabled.",
+  "autosprint.custom_message.off.5": "Auto-moving disabled."
 }

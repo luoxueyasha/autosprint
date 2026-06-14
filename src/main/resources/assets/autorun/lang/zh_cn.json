@@ -1,0 +1,19 @@
+{
+  "autorun.configuration.title": "AutoSprint 配置",
+  "autorun.configuration.section.autorun.common.toml": "AutoSprint 配置",
+  "autorun.configuration.section.autorun.common.toml.title": "AutoSprint 配置",
+  "autorun.configuration.autoSprint": "自动行走时默认开启疾跑",
+  "key.category.autosprint.category":"AutoSprint",
+  "key.autosprint.auto_run": "开启/关闭自动行走",
+
+  "autosprint.custom_message.on.1": "已启用自动行走。",
+  "autosprint.custom_message.on.2": "你跑不过我你信吗？",
+  "autosprint.custom_message.on.3": "=====卡其脱离太=====",
+  "autosprint.custom_message.on.4": "冲刺！冲刺！冲！",
+  "autosprint.custom_message.on.5": "已启用自动行走。",
+  "autosprint.custom_message.off.1": "已取消自动行走。",
+  "autosprint.custom_message.off.2": "See You Again……",
+  "autosprint.custom_message.off.3": "不要停下来啊……",
+  "autosprint.custom_message.off.4": "已取消自动行走。",
+  "autosprint.custom_message.off.5": "已取消自动行走。"
+}

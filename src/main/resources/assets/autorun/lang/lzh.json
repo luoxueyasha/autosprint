@@ -1,0 +1,19 @@
+{
+  "autorun.configuration.title": "控 AutoSprint",
+  "autorun.configuration.section.autorun.common.toml": "控 AutoSprint",
+  "autorun.configuration.section.autorun.common.toml.title": "控 AutoSprint",
+  "autorun.configuration.autoSprint": "走于自行之時",
+  "key.category.autosprint.category":"AutoSprint",
+  "key.autosprint.auto_run": "易自行",
+
+  "autosprint.custom_message.on.1": "自行",
+  "autosprint.custom_message.on.2": "朝辤白帝彩雲閒",
+  "autosprint.custom_message.on.3": "卡其脫離汰！",
+  "autosprint.custom_message.on.4": "商鞅知馬力",
+  "autosprint.custom_message.on.5": "自行",
+  "autosprint.custom_message.off.1": "定步",
+  "autosprint.custom_message.off.2": "千里江陵一日還",
+  "autosprint.custom_message.off.3": "步莫停……",
+  "autosprint.custom_message.off.4": "孫臏脚撲朔",
+  "autosprint.custom_message.off.5": "定步"
+}
