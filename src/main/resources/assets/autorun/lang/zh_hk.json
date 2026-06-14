@@ -1,10 +1,10 @@
 {
-  "autorun.configuration.title": "AutoSprint 配置",
-  "autorun.configuration.section.autorun.common.toml": "AutoSprint 配置",
-  "autorun.configuration.section.autorun.common.toml.title": "AutoSprint 配置",
-  "autorun.configuration.autoSprint": "自動行走時默認啓用疾跑",
+  "autosprint.configuration.title": "AutoSprint 配置",
+  "autosprint.configuration.autoSprint": "自動行走時啓用疾跑",
+  "autosprint.configuration.customMessage": "切換自動行走時顯示提示",
   "key.category.autosprint.category":"AutoSprint",
   "key.autosprint.auto_run": "切換自動行走",
+
 
   "autosprint.custom_message.on.1": "已啓動自動行走。",
   "autosprint.custom_message.on.2": "好走快兩步",

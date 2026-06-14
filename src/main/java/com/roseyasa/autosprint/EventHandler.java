@@ -71,11 +71,16 @@ public class EventHandler {
             state = false;
         }
         player.setSprinting(state);
+
+
+    }
+
+    public static void showCustomMessage(Player player, boolean state){
         if(!CUSTOM_MESSAGE.get()) {
             return;
         }
-
-        int t = level.getRandom().nextInt();
+        Level level = player.level();
+        int t = level.getRandom().nextInt(1,10000);
         String key = "autosprint.custom_message.";
         // @debug, 后期改成数据驱动
         if(state){
@@ -88,7 +93,6 @@ public class EventHandler {
         t++;
         key+=t;
         player.sendSystemMessage(Component.translatable(key));
-
     }
 
 //    public static void setPlayerAutojump(LocalPlayer player, boolean state) {
@@ -150,10 +154,12 @@ public class EventHandler {
                 }
                 keyForward.setDown(true);
                 setPlayerSprinting(player,autoSprintRunState);
+                showCustomMessage(player,true);
             } else {
                 isAutoSprinting = false;
                 keyForward.setDown(false);
                 setPlayerSprinting(player,false);
+                showCustomMessage(player,false);
             }
         }
 
@@ -173,6 +179,7 @@ public class EventHandler {
                 keyForward.setDown(true);
                 // 继承跑步状态
                 setPlayerSprinting(player, autoSprintRunState);
+                showCustomMessage(player,false);
             }
 
             // 按S退出
@@ -180,6 +187,7 @@ public class EventHandler {
                 isAutoSprinting = false;
                 keyForward.setDown(false);
                 setPlayerSprinting(player,false);
+                showCustomMessage(player,false);
             }
         }
 

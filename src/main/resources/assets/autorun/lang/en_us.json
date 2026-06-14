@@ -1,8 +1,7 @@
 {
-  "autorun.configuration.title": "AutoSprint Configs",
-  "autorun.configuration.section.autorun.common.toml": "AutoSprint Configs",
-  "autorun.configuration.section.autorun.common.toml.title": "AutoSprint Configs",
-  "autorun.configuration.autoSprint": "Enable Sprinting on Auto-moving",
+  "autosprint.configuration.title": "AutoSprint Settings",
+  "autosprint.configuration.autoSprint": "Enable Sprinting on Auto-moving",
+  "autosprint.configuration.customMessage": "Show custom hints when switching Auto-moving",
   "key.category.autosprint.category":"AutoSprint",
   "key.autosprint.auto_run": "Switch Auto-moving",
 

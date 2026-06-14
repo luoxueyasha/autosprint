@@ -1,8 +1,7 @@
 {
-  "autorun.configuration.title": "控 AutoSprint",
-  "autorun.configuration.section.autorun.common.toml": "控 AutoSprint",
-  "autorun.configuration.section.autorun.common.toml.title": "控 AutoSprint",
-  "autorun.configuration.autoSprint": "走于自行之時",
+  "autosprint.configuration.title": "控 AutoSprint",
+  "autosprint.configuration.autoSprint": "走于自行之時",
+  "autosprint.configuration.customMessage": "易自行時示言",
   "key.category.autosprint.category":"AutoSprint",
   "key.autosprint.auto_run": "易自行",
 
