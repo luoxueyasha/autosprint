@@ -3,9 +3,10 @@
 
 AutoSprint
 ====
+![Icon](icon.png)
 > [KACHITORITAI](https://www.youtube.com/watch?v=PEVBOsSZkN8).
 
-Walks automatically as in MMORPGs.
+Walks automatically by pressing a single button(by default Mouse-4), as in MMORPGs.
 
 Participant of [TeaCon 2026](https://www.teacon.cn/2026).
 
